@@ -9,7 +9,7 @@
 팀명 : 공주와 삼난장이들
 |🧙🏻 박소연(백엔드)|🧙🏻 김가슬(앱개발)|🧙🏻 이주현(프론트)|👸 정원이(AI)|
 |---|---|---|---|
-|<img src="https://avatars.githubusercontent.com/u/39696812?v=4">|<img src="https://github.com/user-attachments/assets/4eb2addc-93f8-4130-800a-d6f565b2043f" />|<img src="https://github.com/user-attachments/assets/7b3cade2-9f34-4a43-b50a-83847ff004e8" />|<img src="https://github.com/user-attachments/assets/7890e6e8-9752-467c-adc1-95abc2e56dd2" />|
+|<img src="https://avatars.githubusercontent.com/u/39696812?v=4">|<img src="https://github.com/user-attachments/assets/4eb2addc-93f8-4130-800a-d6f565b2043f" />|<img width="420" height="420" alt="image" src="https://github.com/user-attachments/assets/f3b75e24-19a9-4ac4-8fb9-0a9750f1c4f2" />|<img src="https://github.com/user-attachments/assets/7890e6e8-9752-467c-adc1-95abc2e56dd2" />|
 
 # 🙋 ios 앱 (일반 사용자)
 
